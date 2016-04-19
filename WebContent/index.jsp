@@ -21,10 +21,6 @@
 				<td colspan="1"><input type="submit" value="longin" /></td>
 			</tr>
 		</table>
-
-
-
-
 	</form>
 </body>
 </html>
